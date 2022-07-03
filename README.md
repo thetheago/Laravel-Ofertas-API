@@ -11,9 +11,10 @@ Baixe o repositório, entre na pasta gosat-api, rode o comando **php artisan ser
 
 ## Urls no Insomnia
 <h4>Api para verificar se o cpf está disponível</h4>
-<img align="center" alt="cpf-api" src="https://cdn.discordapp.com/attachments/302245701415600128/993270806064943104/ofertas-api.png">
-<h4>Api buscar as ofertas com os relacionamentos de um CPF específico</h4>
 <img align="center" alt="cpf-api" src="https://cdn.discordapp.com/attachments/302245701415600128/993270806341754991/cpfapi.png">
+<h4>Api para buscar as ofertas com os relacionamentos de um CPF específico</h4>
+<img align="center" alt="ofertas-api" src="https://cdn.discordapp.com/attachments/302245701415600128/993270806064943104/ofertas-api.png">
+
 
 ## Agradecimentos
 
