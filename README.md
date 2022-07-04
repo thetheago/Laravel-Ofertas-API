@@ -1,5 +1,5 @@
 
-> :warning: **O arquivo .env do laravel ignorou alguns arquivos essencias para funcionar o projeto.. Arrumarei assim que chegar em casa!**
+> :warning: **O arquivo .gitignore do laravel ignorou alguns arquivos essencias para funcionar o projeto.. Arrumarei assim que chegar em casa!**
 
 ## Requisitos
 - PHP ^7.3 [Download](https://www.php.net/downloads.php)
