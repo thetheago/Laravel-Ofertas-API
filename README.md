@@ -9,7 +9,7 @@
 
 ## Como testar
 
-Baixe o repositório, entre na pasta gosat-api, rode os comando **php artisan serve** e acesse localhost:8000 no navegador
+Baixe o repositório, entre na pasta gosat-api, rode os comando **composer update** para atualizar e baixar os pacotes do projeto e **php artisan serve** para subir o servidor, acesse localhost:8000 no navegador
 
 ## Urls no Insomnia
 <h4>Api para verificar se o cpf está disponível</h4>
