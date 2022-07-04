@@ -1,15 +1,15 @@
 
-> :warning: **O arquivo .gitignore do laravel ignorou alguns arquivos essencias para funcionar o projeto.. Arrumarei assim que chegar em casa!**
+> :warning: **O arquivo .gitignore do laravel ignorou alguns arquivos essencias para funcionar o projeto como a pasta /vendor e .env, retirei ele e deve estar tudo certo, caso não consiga rodar por favor entre em contato comigo por whatsapp (31)9 8891-4217**
 
 ## Requisitos
-- PHP ^7.3 [Download](https://www.php.net/downloads.php)
+- PHP ^8.1 [Download](https://www.php.net/downloads.php)
 - Composer [Download](https://getcomposer.org/download/)
 - SQLite3, rodei o comando **sudo apt-get install php-sqlite3** para ativa-lo no php, usei ele como banco de dados dentro do projeto (database/database.sqlite)
 
 
 ## Como testar
 
-Baixe o repositório, entre na pasta gosat-api, rode os comando **composer update** para atualizar e baixar os pacotes do projeto e **php artisan serve** para subir o servidor, acesse localhost:8000 no navegador
+Baixe o repositório, entre na pasta gosat-api, rode o comando **php artisan serve** para subir o servidor e acesse localhost:8000 no navegador
 
 ## Urls no Insomnia
 <h4>Api para verificar se o cpf está disponível</h4>
