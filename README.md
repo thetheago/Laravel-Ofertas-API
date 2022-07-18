@@ -6,6 +6,11 @@
 - Composer [Download](https://getcomposer.org/download/)
 - SQLite3, rodei o comando **sudo apt-get install php-sqlite3** para ativa-lo no php, usei ele como banco de dados dentro do projeto (database/database.sqlite)
 
+#CPFs válidos
+- 111.111.111-11
+- 123.123.123-12
+- 222.222.222.22
+
 
 ## Como testar
 
