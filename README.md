@@ -1,6 +1,9 @@
 
 > :warning: **O arquivo .gitignore do laravel ignorou alguns arquivos essencias para funcionar o projeto como a pasta /vendor e .env, retirei ele e deve estar tudo certo, caso não consiga rodar por favor entre em contato comigo por whatsapp (31)9 8891-4217**
 
+<img src="https://cdn.discordapp.com/attachments/523584352345653288/1010197076728094730/unknown.png" alt="Login" width="500" height="600">
+<img src="https://cdn.discordapp.com/attachments/523584352345653288/1010197238003277824/unknown.png" alt="Main-View" width="500" height="600">
+
 ## Requisitos
 - PHP ^8.1 [Download](https://www.php.net/downloads.php)
 - Composer [Download](https://getcomposer.org/download/)
